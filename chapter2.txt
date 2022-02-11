@@ -1,2 +1,2 @@
-This is my chapter 2
-Bla bla bla
+This is my Text 2
+Bla BLE bla
